@@ -1,4 +1,4 @@
-# SingleCellLiveImaging
+# Single Cell Live Imaging
 MATLAB script for analysis of single cell live imaging video recordings in vivo. For use with the Leica SP5 or fluorescent microscopes with similar capabilities.
 Featured in the following publication:
 
